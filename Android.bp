@@ -3552,7 +3552,8 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-	name: "com.fingerprints.extension@1.0",
+	name: "com.fingerprints.extension@1.0_sunny",
+	stem: "com.fingerprints.extension@1.0",
 	owner: "xiaomi",
 	strip: {
 		none: true,
